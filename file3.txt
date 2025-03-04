@@ -1,2 +1,0 @@
-this is the file3.txt file
-this is now modified
